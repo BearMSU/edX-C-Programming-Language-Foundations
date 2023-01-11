@@ -9,11 +9,11 @@ One room costs nothing if you are exactly 60 (the age of the innkeeper), or 5 do
 
 #### Input:
 
-22
-25
+    22
+    25
 
-#### Output
+#### Output:
 
-40
+    40
 
 Warning: You will be graded on your output, so do not include any print statements that prompt a suer for input.
