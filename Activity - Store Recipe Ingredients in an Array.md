@@ -7,12 +7,12 @@ Your grandparents gave you a fantastic cooking recipe but you can never remember
 
 #### Input:
 
-500 180 650 25 666 42 421 1 370 211
+    500 180 650 25 666 42 421 1 370 211
 
-3
+    3
 
 #### Output:
 
-25
+    25
 
 Warning: You will be graded on our output, so do not include any print statements that prompt a user for input.
