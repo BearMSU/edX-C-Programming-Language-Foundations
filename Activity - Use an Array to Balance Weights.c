@@ -14,3 +14,4 @@ int main(void){
         printf("%.1lf\n", aWeight - cars[i]);
     }
     return 0;
+}
