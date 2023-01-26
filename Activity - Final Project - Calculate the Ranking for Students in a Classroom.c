@@ -28,3 +28,6 @@ int main(void)
         scanf("%s", name);
         printf("%s rank is %d\n",name,ranking[i]);
     }
+
+    return 0;
+}
